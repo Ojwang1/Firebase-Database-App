@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921902645211",
+    "project_id": "ojwang-app",
+    "storage_bucket": "ojwang-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921902645211:android:deb82aa39e8142121931fe",
+        "android_client_info": {
+          "package_name": "com.example.myfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921902645211-11pm4kd9ndrmqmto1s1mjr6frlfrsccm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZvuGCxxBIfKNKs0T_eJS4MyRL_885n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921902645211-11pm4kd9ndrmqmto1s1mjr6frlfrsccm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
